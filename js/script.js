@@ -150,9 +150,6 @@ subMenuEl.addEventListener("click", function(event) {
   }
   
   mainEl.querySelector("h1").innerText = event.target.innerText
-  
-  
-  // document.querySelector("h1").innerHTML = `${event.target.text}`
 })
 
 
